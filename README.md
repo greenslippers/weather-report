@@ -1,5 +1,10 @@
 # Weather Report
 
+## 🌤️ Live Demo
+
+Check out the live version of this project here:  
+[https://weather-report-webapp-js.netlify.app/](https://weather-report-webapp-js.netlify.app/)
+
 ## Skills Assessed
 
 - Following directions and reading comprehension
